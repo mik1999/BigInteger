@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\МФТИ\programs\HomeWork2\BigInteger\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="ITest.Test1" Duration="1" />
+    <TestDuration Test="ITest.Test2" Duration="228" />
+    <TestDuration Test="ITest.Test3" Duration="16609" />
+    <TestDuration Test="ITest.Test4" Duration="180752" />
+  </TestDurations>
+</GtaTestDurations>

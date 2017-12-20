@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\МФТИ\programs\HomeWork2\BigInteger\BigInteger/BigInteger.cpp(53): warning C4244: =: преобразование "NumType" в "int", возможна потеря данных
+  Sample-Test1.vcxproj -> C:\МФТИ\programs\HomeWork2\BigInteger\Debug\Sample-Test1.exe
